@@ -10,9 +10,9 @@ Topics covered:
 3) Matplotlib for Python Plotting
 4) Seaborn for statistical plots
 5) Plotly (and Cufflinks) for interactive dynamic visualizations
-7) Geographical Plotting (Choropleth Maps)
-8) 2 Data Capstone Projects including the topics above
-6) SciKit-Learn for Machine Learning
+6) Geographical Plotting (Choropleth Maps)
+7) 2 Data Capstone Projects including the topics above
+8) SciKit-Learn for Machine Learning
   - Cross Validation and Bias-Variance Trade-Off
   - Linear Regression
   - k-Nearest Neighbours
@@ -21,12 +21,12 @@ Topics covered:
   - Random Forest and Decision Trees
   - Support Vector Machines
   - Principal Component Analysis
-7) Natural Language Processing
-8) Recommender Systems
-9) Neural Networks and Deep Learning
+9) Natural Language Processing
+10) Recommender Systems
+11) Neural Networks and Deep Learning
   - Tensorflow
   - Keras
-10) Big Data and Spark with Python
+12) Big Data and Spark with Python
 
 Note: The solutions given are my solutions, and they are posted with the permission of the instructor.
 
