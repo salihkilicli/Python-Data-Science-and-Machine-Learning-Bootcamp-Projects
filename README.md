@@ -11,7 +11,7 @@ Topics covered:
 4) Seaborn for statistical plots
 5) Plotly (and Cufflinks) for interactive dynamic visualizations
 7) Geographical Plotting (Choropleth Maps)
-8) 2 DATA CAPSTONE PROJECTS INCLUDING TOPICS ABOVE
+8) 2 Data Capstone Projects including the topics above
 6) SciKit-Learn for Machine Learning
   - Cross Validation and Bias-Variance Trade-Off
   - Linear Regression
