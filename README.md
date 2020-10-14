@@ -31,4 +31,5 @@ Topics covered:
 Note: The solutions given are my solutions, and they are posted with the permission of the instructor.
 
 Reference:
-Python for Data Science and Machine Learning Bootcamp: Retrieved from https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+- Python for Data Science and Machine Learning Bootcamp: 
+    - Retrieved from https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
