@@ -13,19 +13,19 @@ Topics covered:
 6) Geographical Plotting (Choropleth Maps)
 7) 2 Data Capstone Projects including the topics above
 8) SciKit-Learn for Machine Learning
-  - Cross Validation and Bias-Variance Trade-Off
-  - Linear Regression
-  - k-Nearest Neighbours
-  - Logistic Regression
-  - K-Means Clustering
-  - Random Forest and Decision Trees
-  - Support Vector Machines
-  - Principal Component Analysis
+    - Cross Validation and Bias-Variance Trade-Off
+    - Linear Regression
+    - k-Nearest Neighbours
+    - Logistic Regression
+    - K-Means Clustering
+    - Random Forest and Decision Trees
+    - Support Vector Machines
+    - Principal Component Analysis
 9) Natural Language Processing
 10) Recommender Systems
 11) Neural Networks and Deep Learning
-  - Tensorflow
-  - Keras
+    - Tensorflow
+    - Keras
 12) Big Data and Spark with Python
 
 Note: The solutions given are my solutions, and they are posted with the permission of the instructor.
